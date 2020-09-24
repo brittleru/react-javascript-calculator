@@ -1,0 +1,47 @@
+/* .button-wrapper {
+  height: 4em;
+  width: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+  font-size: 1.4em;
+  background-color: #222;
+  color: #F8F8F8;
+  flex: 1;
+  outline: 1px solid #F8F8F8
+}
+
+.operator {
+  background-color: #444;
+  color: #F8F8F8;
+}
+.redClass {
+  background-color: #B22222;
+  color: red;
+}
+/* .blueClass {
+  background-color: #4682B4;
+  width: 8em;
+} */
+
+button {
+  position: relative;
+  height: 65px;
+  width: 80px;
+  color: #F8F8F8;
+  outline: 1px solid #F8F8F8;
+  border: none;
+  background-color: #222;
+  cursor: default;
+  font-size: 20px;
+  &:hover{
+    color: green;
+    outline: 3px solid #222;
+    z-index: 3;
+  }
+}
+
+.jumbo {
+  width: 160px;
+}

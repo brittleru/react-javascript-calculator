@@ -1,0 +1,10 @@
+.formulaScreen {
+  min-height: 20px;
+  font-size: 20px;
+  color: #F8F8F8;
+  text-align:right;
+  vertical-align: text-top;
+  line-height: 20px;
+  overflow-warp: break-word;
+  word-warp: break-word;
+}
